@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="10.167.244.22.PureCloud.sa"
+  DTS:DTSID="{39FCFE48-DBF8-45D6-BFBA-D076DF01C525}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=10.167.244.22;User ID=sa;Initial Catalog=PureCloud;Application Name=SSIS-Integration Services Project2-{39FCFE48-DBF8-45D6-BFBA-D076DF01C525}10.167.244.22.PureCloud.sa;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAPhCCKuSHZEyUQt1xPSSnxwAAAAACAAAAAAADZgAAwAAAABAAAABIam1Asr7RmgizlwYeoSYBAAAAAASAAACgAAAAEAAAAChgpXk2OCzbGspC295QjQB4AAAA3dBN9uuYuS9g7Iwtju7pyrd5kW6v93NJ77+axgulFH7UGc+Sgq7q7YiPNApDMRtgWQPCFYGSlJgsh9MNKKArVsKIDuXnsXzwhAEqyQE1WWeaU4vf7+JmB+QZ+SqiJkuXizY/ju5Iy3kIV06ooMQJhVv7GmCm+JktFAAAAOJqmW50kxjCgVr4a28d9evfLMns</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
